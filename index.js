@@ -16,7 +16,7 @@ function sayHiToGrandma(string) {
   }
 }
 function sayHiToGrandma(string) {
-  if (string.toUpperCase() === `string`) {
+  if  (sring == string.toUpperCase) {
     return 'YES INDEED!'
   }
 }
